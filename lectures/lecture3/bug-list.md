@@ -1,23 +1,56 @@
-# Bug List (20-ko)
+# Bug List - uchidakoichi
 
-1. Super de rejibukuro ga hitsuyo ka kikareru no ga kowai
-2. 2. * Denwa o kakeru communication ni negate ishiki ga aru
-      * 3. Biyoin no yoyaku o denwa de suru no ga okku
-        4. 4. Shiranai bango kara no chakushin ni derarenai
-           5. 5. Inshokuten no chumon de tenin o yobu timing ga wakaranai
-              6. 6. Takkyubin no saihaitatsu irai o denwa de suru no ga mendo
-                 7. 7. Shigoto no denwa de "Osewa ni natte orimasu" no timing ga tsukamenai
-                    8. 8. Denwa-goshi no aite no koe ga kiki-torinikui
-                       9. 9. Denwa de jibun no namae o nanoru toki ni kande shimau
-                          10. 10. Denwa o kiru timing ga wakaranai
-                              11. 11. Rusuban denwa o nokosu no ga negate
-                                  12. 12. Denwa de komi-itta hanashi o sareru to panic ni naru
-                                      13. 13. Eigyo denwa o kotowaru no ga negate
-                                          14. 14. Kazoku igai to no denwa de kincho suru
-                                              15. 15. Kokyo no ba de denwa ga kakatte kuru to aseru
-                                                  16. 16. Denwa dato kanjo ga umaku tsutaerarenai
-                                                      17. 17. Aite ga okotte iru no dewa nai ka to fuan ni naru
-                                                          18. 18. Denwa o kakeru mae ni simulation o nando mo shite shimau
-                                                              19. 19. Yotei no henko o denwa de tsutaeru no ga moshivake nai
-                                                                  20. 20. Somosomo denwa to iu tool jitai ga negate
-                                                                      21. 
+> 自分の周りの **困りごと・イラッとすること・もっとこうだったらと思うこと** を **20個** 書く。
+
+***
+
+## ルール
+
+* **20個 必須**(まず **発散** させて書く / 質より量)
+* **具体的に書く**(「何が・どう」)
+* **完璧を目指さない**(思いつき順でOK)
+* ⚠️ **バグリストは自分の頭をひねって書く**のがコツ(壁打ちは VPC のステップで OK)
+
+***
+
+## 書き方の例
+
+🔻 **NG(抽象的すぎる)**
+* 通学が大変
+* 課題が忙しい
+* バイトと両立つらい
+
+🔺 **OK(具体的・状況が見える)**
+* 朝7時の電車が混みすぎて、片手で本が読めない
+* 課題3科目の期限が同じ週に重なって、どれも中途半端になる
+* バイトが22時終わりで、帰宅後に集中できる時間が30分しかない
+
+***
+
+## 私のバグリスト
+
+1. 通勤時の歩道で人とすれ違う際にぶつかりそうになる
+2. ★ 電話をかけるコミュニケーションに苦手意識がある
+3. 多数のアイデアを短時間で考える課題が負担に感じる
+4. 十分に寝ても眠気が残ることがある
+5. 首や肩に慢性的な不調を感じる
+6. 体調不良に対して改善方法が見つけづらい
+7. 長時間のキーボード入力が負担に感じる
+8. 音声入力を周囲の環境的に使いづらい
+9. チャットサービスごとに操作仕様が異なる
+10. Enterキー操作で意図せず送信してしまうことがある
+11. 海外旅行の機会が減り、行動制限を感じる
+12. PDFからコピーした文字列が崩れることがある
+13. 出退勤操作のクリック数が多い
+14. 初見では使い方が分かりづらいアプリがある
+15. 入力形式エラー時に柔軟な補正がされないUIがある
+16. 部屋の整理整頓を継続するのが難しい
+17. 季節性アレルギーの症状が長期間続く
+18. 共用PC環境で作業効率が下がることがある
+19. 頭皮環境の維持に悩みがある
+20. マスク着用後に跡が残りやすい
+
+***
+
+> 20個書いたら、この中から **1つ** を選んで `vpc-v1.md` で深堀りします。\
+> 選んだバグには **★** を付けます(例: `5. ★ 朝7時の電車が…`)。
